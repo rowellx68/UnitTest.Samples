@@ -1,0 +1,7 @@
+{
+  Id: Guid_1,
+  Sender: John Smith,
+  Recipient: Jane Smith,
+  Text: Fancy having pasta for dinner tonight?,
+  Timestamp: DateTime_1
+}
